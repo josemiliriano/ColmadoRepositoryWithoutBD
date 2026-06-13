@@ -1,0 +1,6 @@
+@ApiColmadoSinDB_HostAddress = http://localhost:5225
+
+GET {{ApiColmadoSinDB_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
